@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Review"
+  short_description: "Review security boundaries and sensitive changes"
+  default_prompt: "Use $security-review to review this change for security risks and required fixes."
