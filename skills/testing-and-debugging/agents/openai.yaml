@@ -1,0 +1,4 @@
+interface:
+  display_name: "Testing and Debugging"
+  short_description: "Diagnose failures and validate behavior safely"
+  default_prompt: "Use $testing-and-debugging to reproduce this issue, find the cause, and define validation."
