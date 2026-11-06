@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telegram Approval Workflows"
+  short_description: "Design safe Telegram approval state machines"
+  default_prompt: "Use $telegram-approval-workflows to design or review this Telegram approval flow."
