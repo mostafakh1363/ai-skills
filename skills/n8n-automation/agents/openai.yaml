@@ -1,0 +1,4 @@
+interface:
+  display_name: "n8n Automation"
+  short_description: "Design and validate safe n8n workflows"
+  default_prompt: "Use $n8n-automation to design or review this n8n workflow safely."
